@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dw-sw-prakashprabhakaran/my-app/static/css/main.4d3a117d.chunk.css",
-    "main.js": "/dw-sw-prakashprabhakaran/my-app/static/js/main.d299de93.chunk.js",
-    "main.js.map": "/dw-sw-prakashprabhakaran/my-app/static/js/main.d299de93.chunk.js.map",
-    "runtime-main.js": "/dw-sw-prakashprabhakaran/my-app/static/js/runtime-main.047bfdff.js",
-    "runtime-main.js.map": "/dw-sw-prakashprabhakaran/my-app/static/js/runtime-main.047bfdff.js.map",
-    "static/js/2.c1809de3.chunk.js": "/dw-sw-prakashprabhakaran/my-app/static/js/2.c1809de3.chunk.js",
-    "static/js/2.c1809de3.chunk.js.map": "/dw-sw-prakashprabhakaran/my-app/static/js/2.c1809de3.chunk.js.map",
-    "index.html": "/dw-sw-prakashprabhakaran/my-app/index.html",
-    "precache-manifest.ffc2e20f9dc1c15091c3d4c77eb2296e.js": "/dw-sw-prakashprabhakaran/my-app/precache-manifest.ffc2e20f9dc1c15091c3d4c77eb2296e.js",
-    "service-worker.js": "/dw-sw-prakashprabhakaran/my-app/service-worker.js",
-    "static/css/main.4d3a117d.chunk.css.map": "/dw-sw-prakashprabhakaran/my-app/static/css/main.4d3a117d.chunk.css.map",
-    "static/js/2.c1809de3.chunk.js.LICENSE": "/dw-sw-prakashprabhakaran/my-app/static/js/2.c1809de3.chunk.js.LICENSE"
+    "main.css": "/my-app/static/css/main.4d3a117d.chunk.css",
+    "main.js": "/my-app/static/js/main.d299de93.chunk.js",
+    "main.js.map": "/my-app/static/js/main.d299de93.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.467216da.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.467216da.js.map",
+    "static/js/2.c1809de3.chunk.js": "/my-app/static/js/2.c1809de3.chunk.js",
+    "static/js/2.c1809de3.chunk.js.map": "/my-app/static/js/2.c1809de3.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.4ac70feb73393801391e5ebda4b79316.js": "/my-app/precache-manifest.4ac70feb73393801391e5ebda4b79316.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.4d3a117d.chunk.css.map": "/my-app/static/css/main.4d3a117d.chunk.css.map",
+    "static/js/2.c1809de3.chunk.js.LICENSE": "/my-app/static/js/2.c1809de3.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.047bfdff.js",
+    "static/js/runtime-main.467216da.js",
     "static/js/2.c1809de3.chunk.js",
     "static/css/main.4d3a117d.chunk.css",
     "static/js/main.d299de93.chunk.js"
